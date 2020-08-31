@@ -1,5 +1,6 @@
 import React from 'react';
 import { Route, Switch, useParams, Link } from 'react-router-dom';
+import withStyles from 'isomorphic-style-loader/lib/withStyles'
 
 const NavBar = () => (
   <div>
