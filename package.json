@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "beautiful-dom": "^1.0.7",
-    "express": "4.17.1",
+    "express": "4.17.3",
     "node-html-parser": "^1.2.16",
     "razzle": "3.0.0",
     "react": "16.13.1",
